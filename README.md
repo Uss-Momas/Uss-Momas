@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![@ussumanedev's Holopin board](https://holopin.io/api/user/board?user=ussumanedev)](https://holopin.io/@ussumanedev)
 
-**Uss-Momas/Uss-Momas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Uss-Momas/Uss-Momas** is ✨ _special_ ✨.
 
 Here are some ideas to get you started:
 
